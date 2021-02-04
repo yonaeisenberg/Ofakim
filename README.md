@@ -1,7 +1,7 @@
 # Ofakim
 Tool for fetching currencies rates from website and print them
 
-The executable is : Ofakim2/bin/Release/Ofakim2.exe
+The executable is : Release/Ofakim2.exe
 
 Usage Ofakim2.exe <fetch | print>
 
@@ -10,7 +10,7 @@ Print = print most updated rates for currencies from the file.
 
 Exemple of running from command line (using Mono since I am on a mac):
 
-$ cd Ofakim2/bin/Release/ 
+$ cd Release/ 
 
 $ mono Ofakim2.exe 
 
